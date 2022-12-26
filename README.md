@@ -10,7 +10,9 @@ This is a web based application developed for Call Center related based website 
 *project Demo Video Link* -
 
 ##Azure Technologies Used For Projct
+
 1.Static Web Apps
+
 2. Health Bot
 
 
