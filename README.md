@@ -13,7 +13,7 @@ This is a web based application developed for Call Center related based website 
 
 1.Static Web Apps
 
-2. Health Bot
+2.Health Bot
 
 
 ## Features and Functionalities 😃
