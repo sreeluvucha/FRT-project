@@ -7,7 +7,7 @@ This is a web based application developed for Call Center related based website 
 
 *Project Link* - https://kind-stone-0cd985200.2.azurestaticapps.net
 
-*project Demo Video Link* -
+*project Demo Video Link* - https://youtu.be/txc9G3jjL_E
 
 ## Azure Technologies Used For Project
 
